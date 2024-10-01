@@ -1,8 +1,6 @@
 # Design-Document
 <h1>Style Guides</h1>
-Primary Colors:
-Deep Green: Symbolizes nature, growth, and adventure.
-
+Primary Colors: Deep Green
 Primary Font: Montserrat
 
 <h2>User Persona</h2>
